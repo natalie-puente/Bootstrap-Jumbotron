@@ -1,6 +1,10 @@
 .jumbotron{
     background-image: ;
+    background-color:lavenderblush;
 }
-.col-md-2{
+h2{
     text-align: center;
+}
+.container{
+    background-color: aliceblue;
 }
