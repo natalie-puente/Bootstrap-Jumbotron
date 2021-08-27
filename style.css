@@ -2,7 +2,8 @@
  background-image:url("./img/me.jpg");
 }
 .text-center{
-    color:blue
+    color:darkmagenta;
+    text-align:center;
 }
 h2{
     text-align: center;
