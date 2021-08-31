@@ -11,3 +11,9 @@ h2{
 .container{
     background-color: aliceblue;
 }
+th{
+    text-align: center;
+}
+tr{
+    text-align: center;
+}
